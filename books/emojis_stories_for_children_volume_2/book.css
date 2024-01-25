@@ -1,0 +1,179 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f4f8;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.full-page-image {
+    width: 210mm;
+    height: 297mm;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.introduction {
+    font-size: 3em;
+    line-height: 1.6;
+    text-align: justify;
+    padding: 40px;
+    max-width: 80%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.outro {
+    font-size: 3em;
+    line-height: 1.6;
+    text-align: justify;
+    padding: 40px;
+    max-width: 80%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.document-title {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.pages-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.page {
+    width: 210mm;
+    margin: 0 auto;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    page-break-inside: avoid;
+}
+
+.cards-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    padding: 20px;
+    flex: 1;
+}
+
+.card {
+    width: 6.5in;
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.subjects, .language {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 1em;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.emoji-story {
+    font-size: 3.4em;
+    margin: 10px 0;
+    margin-bottom: 20px;
+}
+
+.story {
+    font-size: 1.3em;
+    text-align: center;
+    margin: 0;
+}
+
+footer {
+    background: #f0f4f8;
+    padding: 10px;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+footer .page-index {
+    color: #000;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+@media print {
+    .card {
+        box-shadow: none;
+    }
+
+    .page {
+        width: 210mm;
+        height: 297mm;
+    }
+
+    .full-page-image {
+        width: 210mm;
+        height: 297mm;
+    }
+
+    .introduction {
+        font-size: 1.2em;
+        line-height: 1.6;
+        text-align: justify;
+        padding: 40px;
+        max-width: 80%;
+        margin: auto;
+        box-sizing: border-box;
+    }
+
+    .outro {
+        font-size: 1.2em;
+        line-height: 1.6;
+        text-align: justify;
+        padding: 40px;
+        max-width: 80%;
+        margin: auto;
+        box-sizing: border-box;
+    }
+}

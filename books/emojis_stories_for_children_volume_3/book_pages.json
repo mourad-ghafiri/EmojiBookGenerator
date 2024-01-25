@@ -1,0 +1,2333 @@
+[
+  {
+    "page": 0,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\udd8a\ud83c\udf74\ud83e\udd55\ud83d\udca9\ud83e\udd2d",
+        "story": "Once upon a time, a sneaky \ud83e\udd8a stole a fork \ud83c\udf74 and tried to eat a carrot \ud83e\udd55, but ended up \ud83d\udca9ing out a diamond \ud83d\udc8e. He was embarrassed \ud83e\udd2d.",
+        "title": "The Sneaky Fox and the Diamond Poop",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "fox",
+          "food",
+          "humor",
+          "embarrassment",
+          "diamond"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udfe1\ud83d\udcbc\ud83d\udcaa\ud83c\udfc6",
+        "story": "A \ud83d\udc36 found a new \ud83c\udfe1 and decided to start his own \ud83d\udcbc. He worked \ud83d\udcaa hard and won a \ud83c\udfc6 for being the best in town!",
+        "title": "The Doggy Business",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "entrepreneurship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf6a\ud83d\ude45\u200d\u2640\ufe0f\ud83d\ude14\u2764\ufe0f",
+        "story": "A cute \ud83d\udc36 saw a yummy \ud83c\udf6a but his owner \ud83d\ude45\u200d\u2640\ufe0f said no \ud83d\ude14. But the owner changed her mind after seeing the \ud83d\udc36's adorable \u2764\ufe0f eyes.",
+        "title": "The Persuasive Pup",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "food",
+          "persuasion"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 1,
+    "stories": [
+      {
+        "emoji_story": "\ud83c\udf32\ud83e\uddd4\ud83d\udc3b\ud83d\udcf8\ud83d\udcf7",
+        "story": "A man \ud83e\uddd4 went into the forest \ud83c\udf32 to take some pictures \ud83d\udcf7 of bears \ud83d\udc3b. But when he got there, he realized he forgot his camera \ud83d\udcf8.",
+        "title": "The Forgotten Camera",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "forest",
+          "photography",
+          "bears"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\uddb8\u200d\u2640\ufe0f\ud83c\udf54\ud83d\udd0d\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83d\udc6e",
+        "story": "A superheroine \ud83e\uddb8\u200d\u2640\ufe0f craved a \ud83c\udf54 , but found it missing. She searched \ud83d\udd0d for clues with a detective \ud83d\udd75\ufe0f\u200d\u2642\ufe0f and a police officer \ud83d\udc6e, and solved the mystery!",
+        "title": "The Case of the Missing Burger",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "superhero",
+          "burger",
+          "mystery",
+          "detective",
+          "police"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf82\ud83d\udca9\ud83c\udf89\ud83c\udf81",
+        "story": "A little \ud83d\udc36 was excited for his birthday \ud83c\udf82. But when his friends brought him a \ud83d\udca9 cake instead of a real one, he was sad \ud83d\ude1e. However, they surprised him with a \ud83c\udf89 party and a real \ud83c\udf81 gift, making his day much better \ud83e\udd70.",
+        "title": "The Birthday Surprise",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "dogs",
+          "surprise"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "stories": [
+      {
+        "emoji_story": "\ud83c\udf08\ud83e\uddf8\ud83e\udd84\ud83d\udc67\ud83d\udc3b",
+        "story": "One day, a little girl \ud83d\udc67 found a magical \ud83e\udd84 rainbow \ud83c\udf08 teddy bear \ud83e\uddf8. Together, they went on an adventure and made new friends \ud83d\udc3b.",
+        "title": "The Magical Rainbow Teddy Bear",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Adventure",
+          "Friendship",
+          "Magic"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc40\ud83d\udde3\ufe0f\ud83c\udfa4\ud83c\udfb6\ud83e\udd41",
+        "story": "One day, a curious \ud83d\udc40 girl heard a talking \ud83d\udde3\ufe0f microphone \ud83c\udfa4, inviting her to come and play some music \ud83c\udfb6 with the drums \ud83e\udd41.",
+        "title": "The Talking Microphone",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "music",
+          "curiosity",
+          "imagination"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf82\ud83d\udc36\ud83c\udf89\ud83c\udf81\ud83d\udca4",
+        "story": "On his birthday \ud83c\udf82, a little dog \ud83d\udc36 received a big surprise \ud83c\udf89 - presents \ud83c\udf81 and party hats! But after all the excitement, he was so tired \ud83d\udca4 that he fell asleep with his favorite toy.",
+        "title": "The Birthday Puppy",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "birthdays",
+          "gifts"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf82\ud83c\udf89\ud83d\udca6\ud83d\udc31",
+        "story": "The \ud83d\udc36 had a \ud83c\udf82 party with \ud83c\udf89 hats and lots of \ud83d\udca6 to play with. Even the \ud83d\udc31 came to celebrate!",
+        "title": "The Dog's Birthday Party",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "animals",
+          "fun"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc68\u200d\ud83d\ude80\ud83d\ude80\ud83c\udf1c\ud83d\udc7d\ud83c\udf0c",
+        "story": "A brave \ud83d\udc68\u200d\ud83d\ude80 and his trusty rocket \ud83d\ude80 blast off to explore the \ud83c\udf1c moon. But they discover a surprise \ud83d\udc7d visitor from another \ud83c\udf0c galaxy!",
+        "title": "The Moon Adventure",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "space",
+          "exploration",
+          "aliens"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf6d\ud83d\udc3b\ud83c\udf1f\ud83d\udc78\ud83c\udffc",
+        "story": "A little \ud83d\udc3b wanted to surprise his friend by giving her a magical \ud83c\udf1f that he found in the forest. But when he arrived at the castle, he realized that his friend had already become a princess \ud83d\udc78\ud83c\udffc. So instead, he shared his bag of \ud83c\udf6d with her and they lived happily ever after.",
+        "title": "The Bear and the Princess",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "friendship",
+          "magic",
+          "surprises"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "stories": [
+      {
+        "emoji_story": "\ud83c\udf33\ud83d\udc26\ud83d\udc3b\ud83d\udc11\ud83c\udf1e",
+        "story": "A \ud83d\udc26 built her nest \ud83c\udf33 in a tree \ud83c\udf1e. One day, a \ud83d\udc3b came along and was about to eat the \ud83d\udc11. But the \ud83d\udc26 bravely fought off the \ud83d\udc3b and saved the \ud83d\udc11.",
+        "title": "The Brave Bird",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "bravery"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf31\ud83d\udc1c\ud83d\udc1c\ud83c\udf31\ud83d\udc1e",
+        "story": "Two ants \ud83d\udc1c\ud83d\udc1c were wandering in the jungle \ud83c\udf31 when they met a ladybug \ud83d\udc1e. They became friends \ud83c\udf31\ud83d\udc1c\ud83d\udc1c\ud83c\udf31\ud83d\udc1e",
+        "title": "The Ants and the Ladybug",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "friends",
+          "bugs",
+          "jungle"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd84\ud83d\udd0d\ud83d\udd75\ufe0f\u200d\u2640\ufe0f\ud83d\udea8\ud83d\ude02",
+        "story": "A \ud83e\udd84 detective \ud83d\udd0d\ud83d\udd75\ufe0f\u200d\u2640\ufe0f was on the case when a \ud83d\udea8 alarm went off. But it turned out to be just a silly prank \ud83d\ude02.",
+        "title": "The Case of the Unicorn Detective",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "unicorn",
+          "detective",
+          "comedy"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\uddfa\ufe0f\ud83c\udfde\ufe0f\ud83c\udfd4\ufe0f\ud83e\uddd7\u200d\u2642\ufe0f\ud83d\udd70\ufe0f",
+        "story": "A group of friends \ud83d\uddfa\ufe0f went on a hiking trip \ud83c\udfde\ufe0f in the mountains \ud83c\udfd4\ufe0f. They had a great time climbing \ud83e\uddd7\u200d\u2642\ufe0f and exploring, but realized they were lost \ud83d\udd70\ufe0f.",
+        "title": "Lost in the Mountains",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "adventure",
+          "hiking",
+          "friends"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf6d\ud83c\udf66\ud83d\udc66\ud83c\udffc\ud83e\uddd2\ud83c\udffb",
+        "story": "Two kids \ud83d\udc66\ud83c\udffc\ud83e\uddd2\ud83c\udffb went to the candy store \ud83c\udf6d\ud83c\udf66 and had the best day of their lives!",
+        "title": "The Adventures of Two Kids at the Candy Store",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "candy",
+          "friends",
+          "fun"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf1f\ud83e\udd84\ud83d\udc09\ud83d\udc67\ud83d\udcda",
+        "story": "Once upon a time, a magical \ud83c\udf1f world was filled with \ud83e\udd84 unicorns, \ud83d\udc09 dragons, and a curious \ud83d\udc67 girl who loved to read \ud83d\udcda.",
+        "title": "The Magical World of Unicorns and Dragons",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "magical",
+          "fantasy",
+          "reading"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf82\ud83c\udf89\ud83c\udf88\ud83c\udf81",
+        "story": "One day, a \ud83d\udc36 woke up to find it was his birthday \ud83c\udf82\ud83c\udf89. His friends surprised him with balloons \ud83c\udf88 and a gift \ud83c\udf81.",
+        "title": "The Birthday Surprise",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "birthdays",
+          "celebrations"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc35\ud83c\udfa8\ud83d\udc69\u200d\ud83c\udfa8\ud83d\udca9\ud83d\udeaa",
+        "story": "A \ud83d\udc35 painted a beautiful masterpiece \ud83c\udfa8 but accidentally the \ud83d\udc69\u200d\ud83c\udfa8 stepped on some \ud83d\udca9 and ran out the \ud83d\udeaa with it!",
+        "title": "The Monkey's Masterpiece",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "art",
+          "mistake"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udfad\ud83c\udf6b\ud83c\udfa9\ud83d\udc30\ud83d\udd70\ufe0f",
+        "story": "A \ud83c\udfad actor in a top hat \ud83c\udfa9 meets a \ud83d\udc30 rabbit who leads him to a magical \ud83d\udd70\ufe0f time-traveling chocolate factory \ud83c\udf6b.",
+        "title": "The Time-Traveling Chocolate Factory",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "chocolate",
+          "magic",
+          "time-travel",
+          "factory"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf82\ud83c\udf81\ud83c\udf89\ud83c\udf88",
+        "story": "A little \ud83d\udc36 was having a birthday \ud83c\udf82\ud83c\udf81, so his friends threw him a surprise party \ud83c\udf89\ud83c\udf88!",
+        "title": "The Puppy's Surprise Party",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "surprise",
+          "friends"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\uddd1\u200d\ud83d\ude80\ud83c\udf15\ud83d\udc32\ud83d\udef8\ud83d\udc7d",
+        "story": "A brave astronaut \ud83e\uddd1\u200d\ud83d\ude80 traveled to the moon \ud83c\udf15 where she met a friendly dragon \ud83d\udc32 who showed her his flying saucer \ud83d\udef8. Inside, they discovered a curious alien \ud83d\udc7d.",
+        "title": "Astronaut's Lunar Encounter",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "space",
+          "dragon",
+          "alien"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udc36\ud83c\udfc3\u200d\u2640\ufe0f\ud83d\udca8\ud83d\udca9",
+        "story": "Two dogs \ud83d\udc36\ud83d\udc36 were chasing after a runner \ud83c\udfc3\u200d\u2640\ufe0f when suddenly one of them let out a smelly \ud83d\udca8 fart \ud83d\udca9, scaring away the runner.",
+        "title": "The Farting Dogs",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "running",
+          "fart"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc67\ud83c\udffc\ud83c\udf08\ud83d\udd78\ufe0f\ud83d\udd77\ufe0f\ud83d\udd78\ufe0f",
+        "story": "Once there was a little girl \ud83d\udc67\ud83c\udffc who loved rainbows \ud83c\udf08. One day, she found a spider's \ud83d\udd77\ufe0f web that glistened like a rainbow \ud83d\udd78\ufe0f. But when she got closer, she saw a big, hairy spider \ud83d\udd77\ufe0f on the web \ud83d\udd78\ufe0f!",
+        "title": "The Rainbow Web",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "rainbows",
+          "spiders",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd16\ud83d\udc15\ud83d\udcf1\ud83c\udfe0\ud83d\udc67",
+        "story": "A robot \ud83e\udd16 adopted a stray dog \ud83d\udc15 and they became best friends through their \ud83d\udcf1 adventures. One day, they found a lost little girl \ud83d\udc67 who needed help finding her way back \ud83c\udfe0.",
+        "title": "The Robot and the Stray",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "robot",
+          "dog",
+          "friendship",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc37\ud83c\udf33\ud83c\udf32\ud83d\udc66\ud83e\ude81",
+        "story": "A \ud83d\udc37 wandered through the \ud83c\udf33\ud83c\udf32. Along came a \ud83d\udc66 flying his \ud83e\ude81. They became friends and lived happily ever after.",
+        "title": "The Pig and the Kite",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "friendship",
+          "animals",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "stories": [
+      {
+        "emoji_story": "\ud83c\udf33\ud83c\udf27\ufe0f\ud83c\udf1e\ud83d\udc1e\ud83d\udc1c",
+        "story": "One day, it was raining \ud83c\udf27\ufe0f , so a little \ud83d\udc1c and a ladybug \ud83d\udc1e took shelter under a tree \ud83c\udf33. When the sun \ud83c\udf1e came out, they went on an adventure together.",
+        "title": "The Rainy Day Adventure",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "nature",
+          "friends",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc67\ud83e\uddca\ud83d\udc31\ud83c\udf08\ud83c\udf1f",
+        "story": "A little girl \ud83d\udc67 befriended an ice cube \ud83e\uddca who turned into a cat \ud83d\udc31. Together, they went on adventures under a rainbow \ud83c\udf08 and became stars \ud83c\udf1f.",
+        "title": "The Magical Friendship",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "friendship",
+          "magic",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\uddd2\ud83c\udffd\ud83e\udd16\ud83e\udd5c\ud83c\udf30\u274c",
+        "story": "A young boy \ud83e\uddd2\ud83c\udffd finds a robot \ud83e\udd16 who loves peanuts \ud83e\udd5c and chestnuts \ud83c\udf30, but unfortunately they discover the robot is allergic \u274c.",
+        "title": "The Allergic Robot",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "robot",
+          "allergies",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udc2f\ud83c\udf33\ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udca8",
+        "story": "\ud83e\udd81 and \ud83d\udc2f were playing tag \ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udca8 in the jungle \ud83c\udf33, but \ud83e\udd81 kept getting caught. Finally, \ud83e\udd81 used his roar to scare \ud83d\udc2f and won the game!",
+        "title": "The Jungle Tag Game",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "jungle",
+          "games"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udc3e\ud83c\udff0\ud83d\udd2e\ud83d\ude34",
+        "story": "A little \ud83d\udc36 went on an adventure \ud83d\udc3e to a magical \ud83c\udff0 with a \ud83d\udd2e, but on the way back, he was so tired \ud83d\ude34.",
+        "title": "The Little Dog's Magic Adventure",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "adventure",
+          "magic",
+          "animals"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udeb6\u200d\u2642\ufe0f\ud83e\uddf6\ud83d\udc96\ud83d\udc3e",
+        "story": "A man \ud83d\udeb6\u200d\u2642\ufe0f walking his dog \ud83d\udc36 found a ball of yarn \ud83e\uddf6 on the sidewalk. As they played with it, they formed a bond \ud83d\udc96 that would last paw-sitively forever \ud83d\udc3e.",
+        "title": "Yarn-tastic Friendship",
+        "subjects": [
+          "comedy"
+        ],
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udfbe\ud83c\udf1e\ud83c\udfc6\u2764\ufe0f",
+        "story": "A \ud83d\udc36 played with a \ud83c\udfbe all day under the \ud83c\udf1e. He won the \ud83c\udfc6 but what he really loved was the \u2764\ufe0f he got from his human.",
+        "title": "The Tennis Champion",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "sports"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd84\ud83c\udff0\ud83d\udddd\ufe0f\ud83c\udf08\u2764\ufe0f",
+        "story": "Once upon a time, a magical \ud83e\udd84 stumbled upon a mysterious \ud83c\udff0 with a locked \ud83d\udddd\ufe0f gate. The \ud83e\udd84 traveled through a rainbow \ud83c\udf08 to find the key \ud83d\udd11 and unlocked the gate, discovering a world full of love \u2764\ufe0f.",
+        "title": "The Magical Unicorn and the Mysterious Castle",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "fantasy",
+          "adventure",
+          "love"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf32\ud83e\udddd\ud83d\udc99\ud83d\udd12\u2764\ufe0f",
+        "story": "Once upon a time, in a forest \ud83c\udf32 far away, a kind \ud83e\udddd elf fell in love \u2764\ufe0f with a courageous knight \ud83d\udd12. But their love was forbidden \ud83d\udc99.",
+        "title": "Forbidden Love in the Forest",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Fantasy",
+          "Love",
+          "Adventure"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "stories": [
+      {
+        "emoji_story": "\ud83c\udf1e\ud83c\udfd6\ufe0f\ud83c\udfca\u200d\u2642\ufe0f\ud83c\udf66\ud83d\ude0e",
+        "story": "One sunny day \ud83c\udf1e, we went to the beach \ud83c\udfd6\ufe0f to swim \ud83c\udfca\u200d\u2642\ufe0f and eat ice cream \ud83c\udf66. We had so much fun \ud83d\ude0e!",
+        "title": "A Day at the Beach",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "beach",
+          "summer",
+          "fun"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\uddb8\u200d\u2640\ufe0f\ud83d\udd75\ufe0f\u200d\u2640\ufe0f\ud83d\udd0d\ud83d\udc36\ud83e\uddf9",
+        "story": "Superhero \ud83e\uddb8\u200d\u2640\ufe0f and detective \ud83d\udd75\ufe0f\u200d\u2640\ufe0f worked together using a magnifying glass \ud83d\udd0d to find a missing dog \ud83d\udc36. They caught the culprit and cleaned up the streets with a broom \ud83e\uddf9.",
+        "title": "Superhero and Detective Save the Day",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "superhero",
+          "detective",
+          "mystery",
+          "comedy"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83e\udd6b\ud83c\udf74\ud83d\udca4\ud83d\ude34",
+        "story": "A hungry \ud83d\udc36 found a can of dog food \ud83e\udd6b and a fork \ud83c\udf74, but after eating, he fell asleep \ud83d\udca4\ud83d\ude34.",
+        "title": "The Sleepy Pup",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "food",
+          "sleep"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc7b\ud83d\udeaa\ud83d\ude31\ud83d\ude02\ud83d\udc68\u200d\ud83d\udc67",
+        "story": "A \ud83d\udc68\u200d\ud83d\udc67 were visiting a haunted \ud83d\udc7b house, but when they opened the \ud83d\udeaa, they both screamed \ud83d\ude31! Turned out it was just a friendly \ud83e\udd23 ghost.",
+        "title": "The Friendly Ghost in the Haunted House",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "ghost",
+          "haunted house",
+          "funny"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc35\ud83e\uddb6\ud83d\udeb6\u200d\u2642\ufe0f\ud83d\udca4\ud83d\udc66",
+        "story": "A \ud83d\udc35 stepped on a person's \ud83e\uddb6 and the person \ud83d\udeb6\u200d\u2642\ufe0f fell asleep \ud83d\udca4. A \ud83d\udc66 came and woke him up.",
+        "title": "The Sleepy Foot",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "sleep",
+          "helping"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udd75\ufe0f\u200d\u2640\ufe0f\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83c\udff0\ud83d\udcb0",
+        "story": "A \ud83e\udd81 detective duo \ud83d\udd75\ufe0f\u200d\u2640\ufe0f\ud83d\udd75\ufe0f\u200d\u2642\ufe0f was hired to solve a mystery in a \ud83c\udff0 castle. The case led them to a hidden room full of \ud83d\udcb0.",
+        "title": "The Lion Detectives",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "mystery",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 14,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf66\ud83d\ude0b\ud83c\udfe0\ud83d\udc95",
+        "story": "A \ud83d\udc36 went to the ice cream \ud83c\udf66 van and got his favorite flavor \ud83d\ude0b. He happily went back to his \ud83c\udfe0 and shared it with his family \ud83d\udc95.",
+        "title": "Puppy Love for Ice Cream",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "puppies",
+          "ice cream",
+          "family"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udd0d\ud83d\udd75\ufe0f\u200d\u2640\ufe0f\ud83d\udc67\ud83d\udcbc",
+        "story": "\ud83d\udc67 was playing with her \ud83d\udc36 when he went missing. She became a detective \ud83d\udd0d and teamed up with her mom \ud83d\udcbc to find him. They searched everywhere and finally found him hiding in the closet \ud83d\udd75\ufe0f\u200d\u2640\ufe0f.",
+        "title": "The Missing Puppy",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "puppy",
+          "detective",
+          "family"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf6a\ud83d\udc30\ud83d\udd70\ufe0f\ud83d\udd52\ud83d\udca4",
+        "story": "One day, a little \ud83d\udc30 was hungry for \ud83c\udf6a. He looked at the clock \ud83d\udd70\ufe0f and saw it was only \ud83d\udd52, too early for a snack. So he decided to take a nap \ud83d\udca4 and dream about delicious cookies.",
+        "title": "The Hungry Bunny's Nap",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "bunny",
+          "cookies",
+          "nap",
+          "time",
+          "dreams"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 15,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf82\ud83d\udc66\ud83c\udffc\ud83c\udf81\ud83c\udf89",
+        "story": "A little boy \ud83d\udc66\ud83c\udffc had a big surprise \ud83c\udf81 for his furry friend \ud83d\udc36 on his birthday \ud83c\udf82. He got him a special treat \ud83c\udf89 that made his tail wag with happiness \ud83d\udc3e! \ud83c\udf82\ud83c\udf81\ud83c\udf89\ud83d\udc3e\u2764\ufe0f",
+        "title": "The Birthday Surprise",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "surprise",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf08\ud83d\udc66\ud83d\udccf\ud83c\udfe1\ud83d\udc69\u200d\ud83d\udc67",
+        "story": "A little boy \ud83d\udc66 built a rainbow \ud83c\udf08 measuring ruler \ud83d\udccf to help his new neighbor \ud83d\udc69\u200d\ud83d\udc67 decorate her house \ud83c\udfe1. Their teamwork made their neighborhood more colorful than ever before! \ud83c\udf89",
+        "title": "The Rainbow Ruler",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "teamwork",
+          "neighborhood",
+          "creativity"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udc30\ud83c\udf31\ud83e\udd55\ud83e\udd1d",
+        "story": "A \ud83e\udd81 met a \ud83d\udc30 in the forest. They both saw a \ud83c\udf31 and \ud83e\udd55, and decided to share it \ud83e\udd1d.",
+        "title": "The Lion and the Rabbit",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "friendship",
+          "sharing"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 16,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf66\ud83c\udff0\ud83d\udc78\ud83d\udc0c",
+        "story": "Once upon a time, a cute \ud83d\udc36 went to the \ud83c\udf66 castle to visit the \ud83d\udc78. On the way, it met a slow \ud83d\udc0c and gave him a ride. Together, they had a great adventure in the castle \ud83c\udff0.",
+        "title": "The Puppy's Castle Adventure",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Adventure",
+          "Animals",
+          "Friendship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf82\ud83c\udf81\ud83c\udf89\ud83c\udf88\ud83d\udc3b",
+        "story": "It was Bobby's \ud83c\udf82 and he was so excited for his presents \ud83c\udf81 and party \ud83c\udf89. He blew up the \ud83c\udf88 and hugged his favorite \ud83d\udc3b. It was the best ever!",
+        "title": "Bobby's Birthday Bash",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "presents",
+          "party"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\uddb7\ud83c\udf6c\ud83d\ude2c\ud83d\ude32\ud83d\ude01",
+        "story": "A kid eats too much \ud83c\udf6c and breaks his \ud83e\uddb7. But when he goes to the dentist \ud83d\ude2c, he finds out something surprising \ud83d\ude32 that makes him smile \ud83d\ude01.",
+        "title": "The Sweet Surprise",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dentist",
+          "candy",
+          "surprise"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc38\ud83d\udc51\ud83e\udde0\ud83d\ude02\ud83c\udf08",
+        "story": "Once upon a time, a \ud83d\udc38 became king \ud83d\udc51 and had to use his \ud83e\udde0 to rule the kingdom. But with his hilarious sense of humor \ud83d\ude02, he brought joy \ud83c\udf08 to all his subjects.",
+        "title": "The Frog King's Funny Reign",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "humor",
+          "royalty"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf82\ud83c\udf89\ud83c\udf88\u2764\ufe0f",
+        "story": "Today is Spot's birthday \ud83d\udc36\ud83c\udf82 and his loved ones threw him a party \ud83c\udf89\ud83c\udf88. They all gathered to celebrate and show their love for him \u2764\ufe0f.",
+        "title": "Spot's Birthday Party",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "celebration",
+          "dogs",
+          "love"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf70\ud83d\udcb0\ud83c\udfc6\ud83c\udf82",
+        "story": "A dog \ud83d\udc36 stole a cake \ud83c\udf70 and sold it for money \ud83d\udcb0. With the money, he bought a trophy \ud83c\udfc6 and a birthday cake \ud83c\udf82 for his owner's birthday!",
+        "title": "The Cake Thief",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "dogs",
+          "cakes",
+          "money",
+          "trophies",
+          "birthdays"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 18,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\uddd2\ud83d\udd70\ufe0f\ud83e\udd95\ud83d\udeaa\ud83d\udc4b",
+        "story": "A young \ud83e\uddd2 went on a time-travel \ud83d\udd70\ufe0f adventure and met a friendly \ud83e\udd95. Together, they explored different eras and opened many magical \ud83d\udeaa. In the end, they said their goodbyes \ud83d\udc4b but promised to meet again.",
+        "title": "Time-Traveling with a Dinosaur",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Time-Travel",
+          "Adventure",
+          "Dinosaurs"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udfe0\ud83d\udd25\ud83d\udca6\ud83d\udc69\u200d\ud83d\ude92",
+        "story": "One day, a \ud83d\udc36 was trapped in a \ud83c\udfe0 on \ud83d\udd25. Luckily, a \ud83d\udc69\u200d\ud83d\ude92 arrived in time to put out the fire with \ud83d\udca6 and rescue the \ud83d\udc36.",
+        "title": "The Brave Firefighter and the Little Dog",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "firefighting",
+          "rescue",
+          "animals"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udc31\ud83d\udc97\ud83c\udf82\ud83c\udf89",
+        "story": "A \ud83d\udc36 and a \ud83d\udc31 became best friends and celebrated their \ud83d\udc97 for each other with a \ud83c\udf82 and \ud83c\udf89 party.",
+        "title": "Best Friends Forever",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "friendship",
+          "celebration"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 19,
+    "stories": [
+      {
+        "emoji_story": "\ud83c\udf32\ud83c\udf33\ud83c\udf31\ud83c\udf3f\ud83d\udca7",
+        "story": "Once upon a time, a little \ud83c\udf32 was in need of \ud83d\udca7 to survive. It asked its friends \ud83c\udf33, \ud83c\udf31, and \ud83c\udf3f for help, and together they found a way to get the water \ud83d\udca7 and keep themselves healthy.",
+        "title": "The Little Tree's Quest for Water",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "friends",
+          "nature",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc68\u200d\ud83d\udc67\ud83d\udc67\ud83e\udd5e\ud83c\udf41",
+        "story": "A \ud83c\udfad actor \ud83d\udc68\u200d\ud83d\udc67 and his daughter \ud83d\udc67 decide to make pancakes \ud83e\udd5e with maple syrup \ud83c\udf41 on a lazy Sunday morning.",
+        "title": "Pancake Time",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "family",
+          "food"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc07\ud83c\udfa9\ud83d\ude43\ud83d\udc15\ud83e\udd21",
+        "story": "Once upon a time, a clever \ud83d\udc07 wearing a magical \ud83c\udfa9 met a mischievous \ud83d\ude43 \ud83d\udc15. They went on an adventure \ud83e\udd21 together and had lots of fun!",
+        "title": "The Clever Rabbit and the Mischievous Dog",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "magic",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 20,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\udd81\ud83c\udff0\ud83d\udd2e\ud83d\udcb0\ud83d\udc66",
+        "story": "A brave \ud83e\udd81 entered a magical \ud83c\udff0 and found a crystal \ud83d\udd2ethat could make him rich \ud83d\udcb0. But the tricky \ud83d\udc66 wizard who owned the castle had other plans...",
+        "title": "The Lion's Quest",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "adventure",
+          "fantasy"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udfc5\ud83d\udcaa\ud83c\udf1f\ud83d\ude0c",
+        "story": "A little \ud83d\udc36 dreamt of winning a \ud83c\udfc5 in a big race. So, he trained \ud83d\udcaa hard every day until he became a shining \ud83c\udf1f. On race day, he ran with all his might and crossed the finish line \ud83d\ude0c.",
+        "title": "The Little Dog's Big Race",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "dreams",
+          "achievements"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd14\ud83c\udfa8\ud83c\udfa8\ud83c\udfa8\ud83d\ude04",
+        "story": "A curious \ud83e\udd14 artist \ud83c\udfa8\ud83c\udfa8\ud83c\udfa8 discovers a magical paintbrush \ud83d\ude04",
+        "title": "The Magic Paintbrush",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "imagination",
+          "art",
+          "magic"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 21,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udc30\ud83c\udfa8\ud83c\udf08\ud83c\udf1f",
+        "story": "A \ud83e\udd81 and \ud83d\udc30 decided to make art \ud83c\udfa8 together. They used every color of the \ud83c\udf08 and created a masterpiece \ud83c\udf1f.",
+        "title": "The Lion and the Rabbit's Rainbow Art",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "animals",
+          "art",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf1e\ud83c\udf27\ufe0f\ud83d\udc66\ud83c\udf82\ud83c\udf81",
+        "story": "One sunny day \ud83c\udf1e, it suddenly rained \ud83c\udf27\ufe0f. A little boy \ud83d\udc66 was sad because it was his birthday \ud83c\udf82, but then he received a surprise gift \ud83c\udf81.",
+        "title": "The Birthday Surprise",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "surprise",
+          "weather",
+          "gifts"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf66\ud83c\udf27\ufe0f\ud83e\uddd2\ud83c\udffd",
+        "story": "One rainy day \ud83c\udf27\ufe0f, a little boy \ud83e\uddd2\ud83c\udffd lost his \ud83d\udc36. He searched high and low, but couldn't find him. Just as he started to give up hope, he saw his \ud83d\udc36 happily licking an \ud83c\udf66 cone in a nearby park.",
+        "title": "Lost Puppy on a Rainy Day",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "puppy",
+          "rainy day",
+          "searching"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 22,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc3b\ud83d\udeb6\u200d\u2642\ufe0f\ud83c\udfde\ufe0f\ud83e\ude81\ud83e\udd86",
+        "story": "A man \ud83d\udeb6\u200d\u2642\ufe0f went for a walk in the \ud83c\udfde\ufe0f and met a \ud83d\udc3b. He flew a \ud83e\ude81 and watched a \ud83e\udd86 fly by.",
+        "title": "The Bear Encounter",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Adventure",
+          "Nature"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc18\ud83c\udf33\ud83e\udd92\ud83c\udf4e\u2764\ufe0f",
+        "story": "An \ud83d\udc18 lived near a \ud83c\udf33 where a \ud83e\udd92 loved to eat \ud83c\udf4e. One day, the \ud83d\udc18 brought the \ud83e\udd92 some \ud83c\udf4e and they became \u2764\ufe0f friends.",
+        "title": "The Elephant and the Giraffe",
+        "subjects": [
+          "comedy"
+        ],
+        "audience": "children",
+        "tags": [
+          "friendship",
+          "animals"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd81\ud83c\udf54\ud83c\udf5f\ud83d\udca9\ud83d\ude37",
+        "story": "The lion \ud83e\udd81 went to the fast food restaurant \ud83c\udf54\ud83c\udf5f, but got sick \ud83d\udca9\ud83d\ude37 afterwards.",
+        "title": "The Sick Lion at the Fast Food Restaurant",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "food",
+          "health"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 23,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf82\ud83c\udf81\ud83c\udf89\ud83d\udc3e",
+        "story": "It's a Dog's \ud83d\udc36 birthday \ud83c\udf82 and his human family got him a present \ud83c\udf81 and a party \ud83c\udf89 with all his furry friends \ud83d\udc3e!",
+        "title": "A Dog's Birthday Party",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "birthdays",
+          "parties"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf66\ud83c\udf82\ud83c\udfe0\ud83d\udeaa",
+        "story": "A dog \ud83d\udc36 went to the ice cream \ud83c\udf66 shop and got a cake \ud83c\udf82. He took it back to his house \ud83c\udfe0 and tried to open the door \ud83d\udeaa, but it was locked!",
+        "title": "The Dog and the Locked Door",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dog",
+          "ice cream",
+          "cake"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc31\ud83d\udc36\ud83c\udfe0\ud83d\udd11\ud83d\ude45",
+        "story": "A \ud83d\udc31 and a \ud83d\udc36 wanted to walk into a \ud83c\udfe0, but they didn't have the \ud83d\udd11. A \ud83d\ude45 stopped them.",
+        "title": "The Cat and Dog's Adventure",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 24,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf38\ud83c\udf27\ufe0f\ud83e\uddd1\u200d\ud83e\uddb1\ud83e\udd8b",
+        "story": "One day, a cute \ud83d\udc36 went out for a walk and saw beautiful \ud83c\udf38 blooming. Suddenly, it started to rain \ud83c\udf27\ufe0f and a young girl \ud83e\uddd1\u200d\ud83e\uddb1 offered her umbrella \u2602\ufe0f to the dog. As they walked, they saw a colorful \ud83e\udd8b flying by.",
+        "title": "The Flower Walk",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "flowers",
+          "rain",
+          "kindness",
+          "nature"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc30\ud83c\udff0\ud83d\udc09\ud83d\udcb0\ud83d\udc51",
+        "story": "Once upon a time, a brave \ud83d\udc30 set out on a quest to defeat a fierce \ud83d\udc09 and save a castle \ud83c\udff0. But the reward of \ud83d\udcb0 and \ud83d\udc51 was not worth the danger.",
+        "title": "The Rabbit's Quest",
+        "subjects": [
+          "comedy"
+        ],
+        "audience": "children",
+        "tags": [
+          "adventure",
+          "animals"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc3b\ud83e\uddf8\ud83c\udf08\ud83c\udf1e\ud83d\udd70\ufe0f",
+        "story": "One sunny \ud83c\udf1e day, a \ud83d\udc3b teddy bear \ud83e\uddf8 found a \ud83c\udf08 rainbow \ud83c\udf08 and wished to stay there forever \u23f0.",
+        "title": "The Teddy Bear and the Rainbow",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Teddy bears",
+          "Rainbows",
+          "Wishes",
+          "Time"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 25,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83e\udd69\ud83d\udc68\u200d\ud83c\udf73\ud83d\ude0b\ud83d\udca9",
+        "story": "A dog \ud83d\udc36 stole a piece of delicious \ud83e\udd69 and ran away. The chef \ud83d\udc68\u200d\ud83c\udf73 chased after him \ud83d\ude0b but the dog ate the meat and left a \ud83d\udca9 behind.",
+        "title": "The Great Meat Heist",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "food",
+          "pranks"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf55\ud83c\udf6b\ud83d\udd70\ufe0f\ud83d\udeaa\ud83d\ude34",
+        "story": "Once upon a time, a \ud83c\udf55 and \ud83c\udf6b obsessed kid \u23f0 missed the chance to meet the \ud83d\udeaa and ended up falling asleep \ud83d\ude34.",
+        "title": "The Pizza and Chocolate Kid",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "food",
+          "time management"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd9c\ud83c\udf34\ud83e\udd65\ud83c\udf0a\ud83c\udf1e",
+        "story": "A colorful \ud83e\udd9c bird \ud83c\udf34 enjoyed a delicious \ud83e\udd65 coconut \ud83c\udf0a by the beach \ud83c\udf1e.",
+        "title": "The Happy Parrot and the Coconut",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animal",
+          "tropical",
+          "food"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 26,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udfe1\ud83d\udd11\ud83d\udddd\ufe0f\ud83d\udcbc",
+        "story": "A little \ud83d\udc36 found a lost \ud83d\udd11 and brought it back to its rightful owner's \ud83c\udfe1. As a reward, the owner gave the \ud83d\udc36 a \ud83d\udddd\ufe0f to their \ud83d\udcbc!",
+        "title": "The Lost Key",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "kindness",
+          "rewards"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udc2f\ud83e\udd93\ud83c\udf33\ud83c\udfc3",
+        "story": "A \ud83e\udd81, \ud83d\udc2f, and \ud83e\udd93 all live together in the \ud83c\udf33. One day, they decide to have a race \ud83c\udfc3 to see who is the fastest! Can you guess who wins?",
+        "title": "The Animal Races",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "animals",
+          "competition",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc18\ud83d\udc12\ud83c\udf33\ud83d\udca9\ud83e\udd2d",
+        "story": "The \ud83d\udc18 and \ud83d\udc12 were happily exploring the \ud83c\udf33 when the \ud83d\udc18 accidentally stepped in \ud83d\udca9. They both couldn't help but \ud83e\udd2d at the silly sight.",
+        "title": "The Elephant and the Monkey",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "humor",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 27,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc78\ud83c\udffc\ud83c\udf82\ud83c\udf81\ud83c\udf89\ud83d\ude22",
+        "story": "Once there was a princess \ud83d\udc78\ud83c\udffc who received a birthday cake \ud83c\udf82 with lots of gifts \ud83c\udf81 and balloons \ud83c\udf89. But she was sad \ud83d\ude22 because all she really wanted was a hug",
+        "title": "The Princess and the Birthday Cake",
+        "subjects": [
+          "comedy"
+        ],
+        "audience": "children",
+        "tags": [
+          "princess",
+          "birthday",
+          "sadness"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udfe0\ud83c\udf27\ufe0f\ud83e\udd71\ud83d\ude34",
+        "story": "A little \ud83d\udc36 was stuck outside in the \ud83c\udf27\ufe0f. He was so tired from waiting that he fell asleep \ud83d\ude34. Luckily, his owner came home to let him in the cozy \ud83c\udfe0.",
+        "title": "The Sleepy Dog in the Rain",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Dog",
+          "Rain",
+          "Sleep",
+          "Home"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf6a\ud83d\udc36\ud83d\udd70\ufe0f\ud83c\udff0\ud83d\udcb0",
+        "story": "A \ud83d\udc36 stole \ud83c\udf6a from a kitchen \ud83c\udff0 and ran away with it. But then he realized it was no ordinary \ud83c\udf6a and that it could make him rich \ud83d\udcb0 if he could sell it to the right buyer \ud83d\udd70\ufe0f.",
+        "title": "The Stolen Cookie",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "thievery",
+          "riches"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 28,
+    "stories": [
+      {
+        "emoji_story": "\ud83c\udf4e\ud83d\udc51\ud83d\udca9\ud83d\ude02\ud83d\ude07",
+        "story": "Once upon a time, a beautiful \ud83c\udf4e was sought after by many princes \ud83d\udc51, but it turns out it was all just a pile of \ud83d\udca9! The princess \ud83d\udc78 ended up laughing \ud83d\ude02 at the situation, and a kind angel \ud83d\ude07 appeared to teach the princes a lesson in true love.",
+        "title": "The Royal Scam",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "princess",
+          "love",
+          "humor"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf1e\ud83c\udf04\ud83d\udc66\ud83c\udf32\ud83c\udf33",
+        "story": "One sunny \ud83c\udf1e morning, a young boy \ud83d\udc66 decided to explore the \ud83c\udf32 forest and came across many \ud83c\udf33 trees.",
+        "title": "Forest Adventure",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Exploration",
+          "Nature"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd95\ud83e\udd95\ud83d\udc76\ud83c\udf31\ud83c\udf33",
+        "story": "Two baby \ud83e\udd95 were born and they grew together eating \ud83c\udf31. Soon they became friends with a young \ud83c\udf33 who grew nearby. They played and explored the world \ud83c\udf0d around them, imagining all kinds of fun dinosaur adventures. \ud83e\udd95\ud83d\udc76\ud83c\udf31\ud83c\udf33",
+        "title": "The Baby Dinosaurs and their Forest Friend",
+        "subjects": [
+          "comedy"
+        ],
+        "audience": "children",
+        "tags": [
+          "dinosaurs",
+          "friendship",
+          "imagination"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 29,
+    "stories": [
+      {
+        "emoji_story": "\ud83c\udf66\ud83d\udc36\ud83c\udfca\u200d\u2642\ufe0f\ud83d\udca6\ud83c\udfd6\ufe0f",
+        "story": "A \ud83d\udc36 went for a swim \ud83c\udfca\u200d\u2642\ufe0f in the ocean \ud83d\udca6 and found an ice cream \ud83c\udf66 on the beach \ud83c\udfd6\ufe0f.",
+        "title": "The Beach Adventure",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "beach",
+          "animals",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf08\ud83e\udd84\ud83d\udc67\ud83c\udffc\ud83d\udc36\ud83d\udc95",
+        "story": "A magical \ud83c\udf08 unicorn \ud83e\udd84 met a little girl \ud83d\udc67\ud83c\udffc and her \ud83d\udc36, and they became the best of friends \ud83d\udc95.",
+        "title": "The Magical Unicorn and the Little Girl",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "magic",
+          "friendship",
+          "animals"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc76\ud83e\udd81\ud83e\uddd1\ud83d\udc18\ud83c\udf33",
+        "story": "A \ud83d\udc76 found a lost \ud83e\udd81 in the \ud83c\udf33, and they became best friends. They went on adventures with a curious \ud83e\uddd1 and a friendly \ud83d\udc18.",
+        "title": "The Baby, the Lion, the Child, and the Elephant",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "friendship",
+          "animals",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 30,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc3b\ud83d\udeb6\u200d\u2642\ufe0f\ud83c\udfe1\ud83c\udf82\ud83c\udf81",
+        "story": "A \ud83d\udc3b went for a walk \ud83d\udeb6\u200d\u2642\ufe0f, saw a \ud83c\udfe1, smelled a cake \ud83c\udf82, knocked on the door \ud83c\udf81, and got invited to a party!",
+        "title": "The Bear's Birthday Party",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "animals"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf54\ud83e\uddcd\ud83c\udf5f\ud83d\ude0b\ud83e\udd64",
+        "story": "One day, a \ud83e\uddcd went to a fast food restaurant \ud83c\udf54 and ordered a delicious meal of \ud83c\udf5f and \ud83e\udd64. They enjoyed their food so much, they couldn't stop \ud83d\ude0b.",
+        "title": "The Hungry Customer",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "food",
+          "eating",
+          "funny"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc31\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udd2e\ud83e\udd6b\ud83c\udf2e",
+        "story": "A curious \ud83d\udc31 stumbled upon a magical \ud83e\uddd9\u200d\u2642\ufe0f potion \ud83d\udd2e that turned a can of \ud83e\udd6b beans into a delicious \ud83c\udf2e taco!",
+        "title": "The Magical Taco Transformation",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "magic",
+          "food",
+          "cats"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 31,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc2d\ud83d\udcda\ud83e\uddf9\ud83c\udf93\ud83e\uddb7",
+        "story": "A \ud83d\udc2d loved to read \ud83d\udcda but always made a mess \ud83e\uddf9. When they went to school \ud83c\udf93, they learned how to clean up and take care of their teeth \ud83e\uddb7.",
+        "title": "The Studious Mouse",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "reading",
+          "cleanliness",
+          "education"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf54\ud83e\uddd1\u200d\ud83c\udf73\ud83d\udca5\ud83c\udf2d\ud83c\udfc6",
+        "story": "A young \ud83e\uddd1\u200d\ud83c\udf73 chef entered a burger \ud83c\udf54 cooking competition with his secret weapon \ud83d\udca5, a special hot dog \ud83c\udf2d ingredient. He won the coveted \ud83c\udfc6 trophy.",
+        "title": "The Burger Battle",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "food",
+          "competition",
+          "victory"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc30\ud83c\udfa9\ud83c\udfa9\ud83c\udfb6\ud83c\udff0",
+        "story": "Once upon a time, a magical \ud83d\udc30 with two \ud83c\udfa9s played a beautiful \ud83c\udfb6 in front of a grand \ud83c\udff0.",
+        "title": "The Magic Bunny and the Twin Top Hats",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Magic",
+          "Music",
+          "Performances"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 32,
+    "stories": [
+      {
+        "emoji_story": "\ud83c\udf1e\ud83c\udf66\ud83d\udc67\ud83c\udffc\ud83d\udc66\ud83c\udffd\ud83d\udc95",
+        "story": "One sunny day \ud83c\udf1e, two children \ud83d\udc67\ud83c\udffc\ud83d\udc66\ud83c\udffd enjoyed a delicious ice cream \ud83c\udf66 together and became forever friends \ud83d\udc95.",
+        "title": "The Sweet Friendship",
+        "subjects": [
+          "comedy"
+        ],
+        "audience": "children",
+        "tags": [
+          "friendship",
+          "ice cream"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udc15\ud83d\udd0e\ud83d\udcb0\ud83c\udf81",
+        "story": "Two cute \ud83d\udc36\ud83d\udc15 detectives used a magnifying glass \ud83d\udd0e to find a missing treasure \ud83d\udcb0. They worked hard and finally found it, and were rewarded with a big surprise \ud83c\udf81.",
+        "title": "The Dog Detectives",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "detectives",
+          "treasure hunt"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf08\ud83e\udd84\ud83c\udf1f\ud83c\udf3a\ud83c\udf82",
+        "story": "One day, a magical \ud83e\udd84 appeared in a beautiful \ud83c\udf3a garden. It sprinkled \u2728rainbow magic \ud83c\udf08 everywhere and threw a surprise \ud83c\udf82 party for all the flowers \ud83c\udf1f.",
+        "title": "The Flower Garden Party",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "magic",
+          "party",
+          "flowers"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 33,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf82\ud83c\udf89\ud83c\udf81\ud83d\udc95",
+        "story": "A \ud83d\udc36 had a birthday \ud83c\udf82 party \ud83c\udf89 and received lots of presents \ud83c\udf81. But the best gift was the love \ud83d\udc95 from his family.",
+        "title": "The Birthday Party",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "presents",
+          "love"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf33\ud83c\udf32\ud83c\udf3a\ud83d\udc23\ud83d\udc26",
+        "story": "A tiny \ud83d\udc23 was born in a beautiful \ud83c\udf3a garden surrounded by \ud83c\udf33\ud83c\udf32. As the \ud83d\udc23 grew up, it made friends with a lovely \ud83d\udc26. They played together every day in the garden \ud83c\udf3a, until it was time for the \ud83d\udc23 to fly away with its new friend \ud83d\udc26.",
+        "title": "The Garden Friends",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83e\uddb4\ud83d\udcb0\ud83c\udfe0\ud83d\ude14",
+        "story": "A little \ud83d\udc36 found a bone \ud83e\uddb4 and decided to sell it for \ud83d\udcb0. With the money, he bought a \ud83c\udfe0 but soon realized he was lonely \ud83d\ude14.",
+        "title": "The Lonely Pup",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "friendship",
+          "money"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 34,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc2d\ud83c\udf82\ud83c\udf89\ud83c\udf81\ud83e\udd81",
+        "story": "A little \ud83d\udc2d had her birthday \ud83c\udf82 and her friends threw her a surprise party \ud83c\udf89\ud83c\udf81. She was so happy until a \ud83e\udd81 tried to crash the party.",
+        "title": "The Birthday Party Crashers",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "birthday",
+          "party",
+          "animals"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd81\ud83c\udf47\ud83c\udf27\ufe0f\ud83c\udf82\ud83c\udf81",
+        "story": "A \ud83e\udd81 went out to pick some \ud83c\udf47 but then it started to rain \ud83c\udf27\ufe0f. He got wet but it didn't stop his party plans, he still ate his \ud83c\udf82 and opened his \ud83c\udf81!",
+        "title": "The Lion's Birthday",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "birthday",
+          "parties"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83e\udd5b\ud83d\udc14\ud83d\udd8b\ufe0f\ud83d\udcc4",
+        "story": "A \ud83d\udc36 wanted a \ud83e\udd5b, but it didn't have any \ud83d\udc14 to get it. So it wrote a \ud83d\udd8b\ufe0f and a \ud83d\udcc4 and made a plan to get the \ud83e\udd5b!",
+        "title": "The Dog and the Milk",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "milk",
+          "plans"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 35,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udfe1\ud83d\udca8\ud83d\ude4a\ud83d\udd73\ufe0f",
+        "story": "A \ud83d\udc36 found his way back \ud83c\udfe1 but accidentally broke wind \ud83d\udca8 and blamed it on a \ud83d\ude4a who fell into a hole \ud83d\udd73\ufe0f.",
+        "title": "The Blame Game",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "blaming",
+          "gas"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf1e\ud83c\udf31\ud83c\udf27\ufe0f\ud83c\udf08\ud83d\udc67",
+        "story": "Once upon a time, a \u2600\ufe0f day brought a little \ud83c\udf31 to life. It grew with the help of \ud83c\udf27\ufe0f and a beautiful \ud83c\udf08. The \ud83d\udc67 watched in amazement.",
+        "title": "The Miracle Seed",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "growth",
+          "nature",
+          "wonder"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc66\ud83e\uddd2\ud83c\udff0\ud83d\udddd\ufe0f\ud83d\udc32",
+        "story": "Two adventurous \ud83d\udc66 boys went on a quest \ud83c\udff0 to find the key \ud83d\udddd\ufe0f to free a captured dragon \ud83d\udc32.",
+        "title": "The Quest for the Dragon's Freedom",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "adventure",
+          "magic",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 36,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udec1\ud83e\uddfc\ud83d\udca6\ud83d\udc87\u200d\u2640\ufe0f",
+        "story": "A \ud83d\udc36 needed a bath \ud83d\udec1 but didn't like soap \ud83e\uddfc. With lots of water \ud83d\udca6 and a helpful groomer \ud83d\udc87\u200d\u2640\ufe0f, the pup was finally clean! \ud83d\udc3e",
+        "title": "Clean Pup",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "dogs",
+          "bath time",
+          "cleanliness"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udeaa\ud83c\udff0\ud83d\udd11\ud83d\ude34",
+        "story": "A curious \ud83d\udc36 wandered into an ancient \ud83c\udff0 but soon found himself trapped behind a locked \ud83d\udd11 \ud83d\udeaa. He spent the night \ud83d\ude34 using his wits to find a way out.",
+        "title": "The Adventure of the Curious Pup",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udc67\ud83c\udffb\ud83e\udd47\ud83d\udc15",
+        "story": "A little girl \ud83d\udc67\ud83c\udffb and her \ud83d\udc36 trained hard \ud83e\udd47 to win the dog show \ud83d\udc15.",
+        "title": "The Winning Duo",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Dogs",
+          "Training",
+          "Competition"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 37,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udc18\ud83d\udc12\ud83d\udc0d\ud83c\udfc6",
+        "story": "A \ud83e\udd81 and \ud83d\udc18 competed against each other in a \ud83c\udfc6 contest. But in the end, it was the clever \ud83d\udc12 and \ud83d\udc0d who won the prize \ud83c\udfc6.",
+        "title": "The Clever Animal Contest",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "competition",
+          "cleverness"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc76\ud83c\udf7c\ud83c\udf6d\ud83d\udc3b\ud83c\udfe5",
+        "story": "A newborn \ud83d\udc76 was craving for \ud83c\udf7c and \ud83c\udf6d, but all the hospital had to offer was a \ud83d\udc3b toy. Luckily, the nurse came up with a clever plan to satisfy the baby's cravings \ud83c\udfe5.",
+        "title": "The Baby's Cravings",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "baby",
+          "hospital",
+          "cravings"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf33\ud83d\udca6\ud83c\udfbe\ud83d\ude03",
+        "story": "A happy \ud83d\udc36 ran to the \ud83c\udf33 to fetch a \ud83c\udfbe but ended up jumping in a puddle \ud83d\udca6 and had an even more fun time \ud83d\ude03.",
+        "title": "The Happy Dog and the Puddle Jump",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dogs",
+          "playfulness",
+          "outdoors"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 38,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udc11\ud83c\udf1e\ud83c\udf27\ufe0f\ud83c\udf08",
+        "story": "One sunny \ud83c\udf1e day, a \ud83e\udd81 met a \ud83d\udc11. Suddenly, it started to rain \ud83c\udf27\ufe0f, but after the rain, a beautiful \ud83c\udf08 appeared in the sky.",
+        "title": "The Lion and the Sheep",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "weather"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf2d\ud83c\udf2e\ud83d\udca9\ud83d\udeab",
+        "story": "A cute little \ud83d\udc36 wanted to eat some \ud83c\udf2d and \ud83c\udf2e but got sick from eating too much and couldn't eat anything anymore \ud83d\udeab\ud83d\udca9",
+        "title": "The Puppy and the Hotdog and Taco Feast",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "food",
+          "animals",
+          "health"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udc31\ud83d\udc96\ud83c\udf27\ufe0f\ud83c\udf08",
+        "story": "A \ud83e\udd81 and a \ud83d\udc31 fell in love \ud83d\udc96 but the \u2614\ufe0f kept them apart. One day, a \ud83c\udf08 appeared and they knew they could be together forever.",
+        "title": "The Lion and the Cat's Love Story",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "love",
+          "animals",
+          "weather"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 39,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83e\uddd1\u200d\ud83c\udf3e\ud83c\udf33\ud83d\udc66\ud83d\udc07",
+        "story": "A \ud83e\uddd1\u200d\ud83c\udf3e farmer girl \ud83d\udc36 loved taking care of her plants \ud83c\udf33. One day, she found a lost bunny \ud83d\udc66 and they became best friends \ud83d\udc07.",
+        "title": "The Farmer Girl and the Lost Bunny",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd81\ud83c\udf33\ud83c\udfe0\ud83d\udc67\ud83c\udffb",
+        "story": "A brave \ud83d\udc67\ud83c\udffb discovered a lion \ud83e\udd81 hiding in a tree \ud83c\udf33 near her \ud83c\udfe0. She offered him food \ud83c\udf57 and they became friends \ud83e\udd1d.",
+        "title": "The Friendly Lion",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "lion",
+          "friendship",
+          "bravery"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc30\ud83e\udd5a\ud83d\udc66\ud83c\udf6b\ud83d\udc67",
+        "story": "Once upon a time, a young \ud83d\udc66 found a magical \ud83d\udc30 who laid a special \ud83e\udd5a. He shared it with a kind \ud83d\udc67 and they were surprised to find it was filled with delicious \ud83c\udf6b!",
+        "title": "The Magical Easter Egg",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "Easter",
+          "Magic",
+          "Friendship"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 40,
+    "stories": [
+      {
+        "emoji_story": "\ud83c\udf08\ud83d\udc36\ud83d\udc96\ud83c\udfe0\ud83d\ude0a",
+        "story": "A colorful \ud83c\udf08 puppy \ud83d\udc36 found a loving home \ud83d\udc96 and lived happily ever after \ud83c\udfe0\ud83d\ude0a",
+        "title": "Rainbow Puppy Finds a Home",
+        "subjects": [
+          "Comedy"
+        ],
+        "audience": "Children",
+        "tags": [
+          "Puppy",
+          "Home",
+          "Love"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udff0\ud83e\udddd\u200d\u2640\ufe0f\ud83c\udf32\ud83d\udc32\ud83d\udde1\ufe0f",
+        "story": "A brave \ud83e\udddd\u200d\u2640\ufe0f set out on a quest to defeat a fierce \ud83d\udc32 that terrorized a \ud83c\udf32. With her trusty \ud83d\udde1\ufe0f, she entered the \ud83c\udff0 to face her greatest challenge.",
+        "title": "The Quest",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "adventure",
+          "fantasy",
+          "hero"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf70\ud83d\udc69\u200d\ud83c\udf73\ud83c\udff0\ud83d\udc78\ud83c\udffb\u2764\ufe0f",
+        "story": "A talented \ud83d\udc69\u200d\ud83c\udf73 baked a cake \ud83c\udf70 for the \ud83d\udc78\ud83c\udffb princess's castle \ud83c\udff0. The princess \u2764\ufe0f the cake and made the chef feel like royalty \ud83d\udc51.",
+        "title": "The Princess's Perfect Cake",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "baking",
+          "royalty",
+          "princess"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 41,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83e\udd5a\ud83d\udc23\ud83c\udf73\ud83d\ude0b",
+        "story": "A cute \ud83d\udc36 found an egg \ud83e\udd5a and out came a baby bird \ud83d\udc23. The dog then cooked the egg \ud83c\udf73 and enjoyed a delicious breakfast \ud83d\ude0b.",
+        "title": "The Dog and the Egg",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "food"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf6a\ud83d\udc31\ud83c\udf6a\ud83d\ude0b",
+        "story": "A \ud83d\udc36 stole a \ud83c\udf6a from the \ud83d\udc31. But then the \ud83d\udc31 got its own \ud83c\udf6a and they both were \ud83d\ude0b.",
+        "title": "The Cookie Stealer",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd81\ud83c\udff0\ud83d\udc78\ud83e\udd34\ud83d\udc8d",
+        "story": "Once upon a time, a \ud83e\udd81 lived in a \ud83c\udff0. The \ud83e\udd81 fell in love with a \ud83d\udc78, but she was already promised to a \ud83d\udc51prince. The \ud83e\udd81 decided to win the \ud83d\udc78's heart by finding a magical \ud83d\udc8d.",
+        "title": "The Lion and the Princess",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "adventure",
+          "love"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 42,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc30\ud83c\udf6b\ud83c\udf81\ud83d\udc67\ud83c\udf31",
+        "story": "A little girl \ud83d\udc67 found a chocolate \ud83c\udf6b bunny \ud83d\udc30 in her Easter basket \ud83c\udf81. She decided to plant \ud83c\udf31 it in her garden and watch it grow!",
+        "title": "The Magic Easter Bunny",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Easter",
+          "Magic",
+          "Growth"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc3b\ud83c\udf32\ud83d\udd25\ud83e\udd55\ud83c\udf2d",
+        "story": "A \ud83d\udc3b was wandering through the \ud83c\udf32 when it smelled something delicious. It followed its nose to a \ud83d\udd25 where a group of campers were roasting \ud83e\udd55 and \ud83c\udf2d. The \ud83d\udc3b decided to join in the fun and the campers welcomed him with open arms.",
+        "title": "The Friendly Bear",
+        "subjects": [
+          "comedy"
+        ],
+        "audience": "children",
+        "tags": [
+          "forest",
+          "camping"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\uddb7\ud83d\udc67\ud83e\uddf8\ud83d\ude37\ud83d\udc8a",
+        "story": "One day, a little \ud83d\udc67 was playing with her favorite \ud83e\uddf8 when suddenly she felt a toothache \ud83e\uddb7. Her mom put a \ud83d\ude37 on her face and gave her some \ud83d\udc8a to make the pain go away.",
+        "title": "The Toothache",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dentist",
+          "health",
+          "toy"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 43,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udc12\ud83c\udf4c\ud83d\udc51\ud83d\udcb0",
+        "story": "A group of \ud83e\udd81\ud83d\udc12 decided to steal a bunch of \ud83c\udf4c from the king's \ud83d\udc51 treasury. They thought they could sell them for \ud83d\udcb0, but things didn't go as planned.",
+        "title": "The Banana Heist",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "adventure",
+          "humor"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc68\ud83c\udffb\u200d\ud83d\udd2c\ud83e\udd95\ud83d\udd0e\ud83e\uddea\ud83d\ude2e",
+        "story": "A scientist \ud83d\udc68\ud83c\udffb\u200d\ud83d\udd2c discovered a new species \ud83e\udd95 and found clues \ud83d\udd0e through his experiments \ud83e\uddea. When he finally saw the dinosaur, he was amazed \ud83d\ude2e.",
+        "title": "The Curious Scientist and the Dinosaur",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "science",
+          "discovery",
+          "dinosaurs"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udff0\ud83d\udc78\ud83c\udffc\ud83d\udc34\ud83d\udca8\ud83e\uddd1\ud83c\udffd\u200d\ud83c\udf3e",
+        "story": "A princess \ud83d\udc78\ud83c\udffc lived in a \ud83c\udff0 and loved to ride her horse \ud83d\udc34 as fast as \ud83d\udca8. One day she met a farmer \ud83e\uddd1\ud83c\udffd\u200d\ud83c\udf3e who showed her the joy of gardening \ud83c\udf31.",
+        "title": "The Fast Riding Princess and the Garden Loving Farmer",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "princess",
+          "horse",
+          "gardening",
+          "farmer",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 44,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\udd20\ud83c\udf54\ud83d\udcb0\ud83d\udc7d\ud83c\udf0e",
+        "story": "Once upon a time, a cowboy \ud83e\udd20 discovered a burger joint \ud83c\udf54 that was actually a front for aliens \ud83d\udc7d trying to take over the world \ud83c\udf0e. With the help of his trusty lasso \ud83d\udcb0, he saved the day!",
+        "title": "The Burger Joint Invasion",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "cowboy",
+          "aliens",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc3b\ud83d\udc27\ud83c\udf32\ud83c\udf33\ud83d\ude4c",
+        "story": "A \ud83d\udc3b and \ud83d\udc27 were lost in the \ud83c\udf32\ud83c\udf33, but they found their way out with \ud83d\ude4c.",
+        "title": "The Bear and the Penguin in the Forest",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "nature",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udc18\ud83e\udd92\ud83d\udc06\ud83c\udf3f",
+        "story": "The \ud83e\udd81, \ud83d\udc18, and \ud83e\udd92 were all peacefully grazing on \ud83c\udf3f when suddenly a playful \ud83d\udc06 appeared and chased them around! Eventually, they all became friends and played together in the \ud83c\udf3f.",
+        "title": "The Animal Chase",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "friendship",
+          "playful"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 45,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf82\ud83d\udcb0\ud83d\udc68\u200d\ud83d\udcbc\ud83d\udc69\u200d\ud83d\udcbc",
+        "story": "A \ud83d\udc36 had a birthday \ud83c\udf82 but he didn't have enough \ud83d\udcb0 to buy a gift for his owners, so he decided to work for their colleagues \ud83d\udc68\u200d\ud83d\udcbc\ud83d\udc69\u200d\ud83d\udcbc to earn some extra money.",
+        "title": "The Working Dog's Birthday",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "dogs",
+          "work"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf82\ud83c\udf89\ud83d\udc94\ud83d\ude22",
+        "story": "A little \ud83d\udc36 had a birthday \ud83c\udf82, and his friends threw him a big \ud83c\udf89. But when he realized he didn't have any presents \ud83d\udc94, he became very \ud83d\ude22.",
+        "title": "The Sad Birthday Pup",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "birthday",
+          "friendship",
+          "emotions"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udfa8\ud83c\udfad\ud83d\udc3b\ud83d\udc67\ud83c\udffb",
+        "story": "\ud83d\udc67\ud83c\udffb loved to paint \ud83c\udfa8 and act \ud83c\udfad, but she felt like she was missing something. One day, she met a talking teddy bear \ud83d\udc3b who encouraged her to keep pursuing her passions.",
+        "title": "The Talking Teddy Bear",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "art",
+          "imagination",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 46,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\udd81\ud83d\udc30\ud83c\udf1f\ud83c\udfc6\ud83c\udf89",
+        "story": "A \ud83e\udd81 and a \ud83d\udc30 wanted to win the talent show \ud83c\udf1f\ud83c\udfc6, so they practiced hard and finally won \ud83c\udf89!",
+        "title": "The Winning Duo",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "talent show",
+          "teamwork"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udfe0\ud83d\udd25\ud83d\udca6\ud83d\ude05",
+        "story": "A \ud83d\udc36 was alone in a \ud83c\udfe0 when suddenly a \ud83d\udd25 started. The brave \ud83d\udc36 ran to get help and came back with \ud83d\udca6 to save the day. Everyone was safe and they all had a good laugh \ud83d\ude05.",
+        "title": "The Heroic Dog",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "heroism"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf69\ud83c\udf6c\ud83c\udf6d\ud83d\ude0b\ud83c\udf82",
+        "story": "Jenny loved to eat \ud83c\udf69\ud83c\udf6c\ud83c\udf6d, but she couldn't decide which one to have. She licked her lips \ud83d\ude0b and finally chose the \ud83c\udf82. It was the best decision she ever made!",
+        "title": "Jenny's Sweet Delight",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "food",
+          "decisions"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 47,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc31\ud83c\udfe0\ud83d\udeb6\u200d\u2642\ufe0f\ud83d\ude22\ud83c\udf08",
+        "story": "A little \ud83d\udc31 got lost and wandered away from his \ud83c\udfe0. He met a \ud83d\udeb6\u200d\u2642\ufe0f who tried to help but they couldn't find the way back. The \ud83d\udc31 was scared and \ud83d\ude22 until they saw a beautiful \ud83c\udf08 in the sky and followed it home.",
+        "title": "The Lost Cat",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "cats",
+          "adventure",
+          "hope"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83c\udf33\ud83c\udf32\ud83c\udf33\ud83d\udc3a",
+        "story": "A little \ud83d\udc36 wandered into the \ud83c\udf33 forest and found a pack of \ud83d\udc3a wolves. But instead of being afraid, they welcomed him and taught him how to live in the \ud83c\udf32 woods.",
+        "title": "The Little Dog in the Forest",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "dogs",
+          "forest",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83e\udd96\ud83e\udd95\ud83d\udca1\ud83d\udd26\ud83d\udd0d",
+        "story": "A \ud83e\udd96 and a \ud83e\udd95 found a \ud83d\udca1 in a dark cave \ud83d\udd26. They used a \ud83d\udd0d to explore and found treasure!",
+        "title": "Dinosaur Adventure",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "dinosaurs",
+          "adventure",
+          "treasure"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 48,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc30\ud83e\udd55\ud83d\ude0b\ud83d\udc69\u200d\ud83c\udf73\u2764\ufe0f",
+        "story": "A hungry \ud83d\udc30 found a delicious \ud83e\udd55 and asked a kind \ud83d\udc69\u200d\ud83c\udf73 to cook it \ud83d\ude0b. The chef \u2764\ufe0f the bunny and made the tastiest carrot dish ever!",
+        "title": "The Bunny's Carrot Adventure",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "food",
+          "love"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc30\ud83c\udf6b\ud83c\udf6c\ud83e\udd5a\ud83d\ude0b",
+        "story": "A \ud83d\udc30 found some \ud83c\udf6b, \ud83c\udf6c, and \ud83e\udd5a hidden in the garden. It ate them all and felt very \ud83d\ude0b.",
+        "title": "The Easter Bunny's Treat",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "Easter",
+          "bunny",
+          "candy"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc3b\ud83d\ude80\ud83d\udc69\u200d\ud83d\ude80\ud83d\udef8\ud83c\udf15",
+        "story": "A \ud83d\udc3b astronaut takes off \ud83d\ude80 with a brave \ud83d\udc69\u200d\ud83d\ude80 to explore a mysterious \ud83d\udef8 on the \ud83c\udf15.",
+        "title": "Adventure to the Moon",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "space",
+          "animals"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 49,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udc66\ud83d\udce6\ud83d\udd0d\ud83d\udca1",
+        "story": "A young boy \ud83d\udc66 received a package \ud83d\udce6 in the mail \ud83d\udc36. He searched \ud83d\udd0d inside and found a lightbulb \ud83d\udca1. With his creativity, he knew just what to do!",
+        "title": "The Inventive Boy",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "creativity",
+          "invention",
+          "imagination"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf32\ud83d\udc3f\ufe0f\ud83e\udd5c\ud83d\udd28\ud83d\udcb0",
+        "story": "A little \ud83d\udc3f\ufe0f squirrel living in a \ud83c\udf32 tree found some \ud83e\udd5c nuts and decided to sell them. He used his \ud83d\udd28 handyman skills to make little jars for the nuts and sold them for \ud83d\udcb0 money.",
+        "title": "The Entrepreneurial Squirrel",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "squirrel",
+          "nuts",
+          "entrepreneurship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udc31\ud83e\udd1d\ud83c\udfe0\ud83d\udc95",
+        "story": "A \ud83d\udc36 and a \ud83d\udc31 became best friends \ud83e\udd1d and decided to live together \ud83c\udfe0. Despite their differences, their bond only grew stronger \ud83d\udc95",
+        "title": "The Unlikely Best Friends",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "Friendship",
+          "Pets"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 50,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\udc66\ud83c\udf33\ud83d\udd25\ud83d\ude92",
+        "story": "Once upon a time, a little \ud83d\udc66 was playing with his \ud83d\udc36 in the \ud83c\udf33. Suddenly, they saw a \ud83d\udd25 and the \ud83d\ude92 came to put it out.",
+        "title": "The Little Hero",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "animals",
+          "adventure"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf33\ud83c\udf32\ud83c\udf44\ud83d\udc3f\ufe0f\ud83d\udc69",
+        "story": "A \ud83d\udc69 went for a walk in the \ud83c\udf33\ud83c\udf32. She found a \ud83c\udf44 and picked it. Suddenly, a \ud83d\udc3f\ufe0f appeared and begged her to put it back. The \ud83d\udc69 listened and made a new friend.",
+        "title": "The Forest Adventure",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "forest",
+          "nature",
+          "friendship"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc35\ud83e\udd34\ud83c\udf4c\ud83e\udd8d\ud83d\udc78",
+        "story": "A \ud83d\udc35 king \ud83e\udd34 loved to eat \ud83c\udf4c, but his kingdom was taken over by a \ud83e\udd8d gorilla. The king traded his \ud83c\udf4c for the gorilla's \ud83d\udc78 queen and they all lived happily ever after.",
+        "title": "The Banana King",
+        "subjects": [
+          "comedy"
+        ],
+        "audience": "children",
+        "tags": [
+          "animals",
+          "royalty"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 51,
+    "stories": [
+      {
+        "emoji_story": "\ud83e\udd81\ud83e\uddd2\ud83c\udf4e\ud83c\udff0\ud83d\udde1\ufe0f",
+        "story": "A brave \ud83e\uddd2 went into the \ud83c\udff0 to fetch the \ud83c\udf4e for the hungry \ud83e\udd81. He had to fight with a \ud83d\udde1\ufe0f, but because he was brave, he succeeded!",
+        "title": "The Brave Child and The Lion",
+        "subjects": "Comedy",
+        "audience": "Children",
+        "tags": [
+          "Bravery",
+          "Adventure",
+          "Animals"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83c\udf1e\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\ud83d\udc3b\ud83c\udf70",
+        "story": "One sunny \ud83c\udf1e day, a family \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67 went on a picnic \ud83d\udc3b and had delicious \ud83c\udf70 for dessert!",
+        "title": "The Perfect Picnic",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "picnic",
+          "family",
+          "dessert"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\udc36\ud83d\uddfa\ufe0f\ud83e\udd20\ud83c\udf35\ud83c\udf89",
+        "story": "A \ud83d\udc36 went on an adventure \ud83d\uddfa\ufe0f to the wild west \ud83e\udd20, where he met a cactus \ud83c\udf35 and they had a wild party \ud83c\udf89.",
+        "title": "The Wild West Adventure",
+        "subjects": [
+          "comedy"
+        ],
+        "audience": "children",
+        "tags": [
+          "animals",
+          "travel"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  },
+  {
+    "page": 52,
+    "stories": [
+      {
+        "emoji_story": "\ud83d\udc66\ud83c\udffc\ud83e\uddea\ud83e\uddea\ud83d\udca5\ud83d\udc68\ud83c\udffb\u200d\ud83d\udd2c",
+        "story": "A curious \ud83d\udc66\ud83c\udffc did some experiments \ud83e\uddea\ud83e\uddea that resulted in a big explosion \ud83d\udca5. Luckily, a scientist \ud83d\udc68\ud83c\udffb\u200d\ud83d\udd2c was nearby to help.",
+        "title": "The Curious Boy and the Big Boom",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "science",
+          "curiosity",
+          "accidents"
+        ],
+        "nbr_emojis": 5
+      },
+      {
+        "emoji_story": "\ud83d\ude82\ud83d\udc30\ud83d\ude34\ud83e\udd55\ud83c\udf74",
+        "story": "Once upon a time, a \ud83d\ude82 train was chugging along when it suddenly spotted a \ud83d\udc30 rabbit on the tracks. The bunny was seemingly \ud83d\ude34 asleep but woke up just in time to hop away from getting run over. Later, the train driver offered the rabbit a \ud83e\udd55 carrot as an apology, and the bunny happily munched on it with a \ud83c\udf74 fork and knife!",
+        "title": "The Train and the Rabbit",
+        "subjects": "comedy",
+        "audience": "children",
+        "tags": [
+          "train",
+          "rabbit",
+          "carrot",
+          "food",
+          "apology"
+        ],
+        "nbr_emojis": 5
+      }
+    ]
+  }
+]

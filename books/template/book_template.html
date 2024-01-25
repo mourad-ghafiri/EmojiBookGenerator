@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="book.css">
+    <title>Emoscript</title>
+</head>
+<body>
+    <div class="pages-container">
+        <div class="page">
+            <img src="cover.png" alt="Your image" class="full-page-image">
+        </div>
+        <div class="page">
+            <div class="introduction">
+                Welcome, little explorers! 🌟 Get ready to dive into a magical world of stories told by emojis! 😮 Discover tales of ❤️, 🚀 through thrilling adventures, and be spellbound by ✨ magic! Giggle with 😂 jokes, uncover 🕵️‍♂️ secrets, and let your dreams 💭 soar! Find motivation 💪 and embrace fun 🎉 in this one-of-a-kind book! Are you ready? Let's begin! 📖.
+            </div>
+            <footer>
+                <p class="page-index">All rights reserved. Visit our website: www.emoscript.com</p>
+            </footer>
+        </div>
+        {% for page in pages %}
+        <div class="page">
+            <header>
+
+            </header>
+            <div class="cards-container">
+                {% for story in page.stories %}
+                <div class="card">
+                    <div class="header">
+                    </div>
+                    <h1 class="title">{{story.title}}</h1>
+                    <p class="emoji-story">{{story.emoji_story}}</p>
+                    <p class="story">{{story.story}}</p>
+                </div>
+                {% endfor %}
+            </div>
+            <footer>
+                <p class="page-index">Page {{page.page + 1}}</p>
+            </footer>
+        </div>
+        {% endfor %}
+        <div class="page">
+            <div class="outro">
+                And so, our emoji-tastic journey comes to an end. 🎉 We've laughed 😂, gasped 😮, and marveled 😍 together through these delightful tales. Remember, little adventurers, the magic of emojis ✨ will always live within you, ready to spark your creativity and imagination! 🤗 Keep dreaming 💭 and exploring new worlds, and who knows? Maybe one day, you'll create your very own emoji stories! 📝🌟 Until we meet again, emoji friends! 👋💖
+            </div>
+            <footer>
+                <p class="page-index">All rights reserved. Visit our website: www.emoscript.com</p>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
